@@ -1,0 +1,7 @@
+*.pyc
+*.npy
+mesh-master/
+diffusion_venv/
+latent_dif_venv/
+data/
+.vscode
