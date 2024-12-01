@@ -1,5 +1,7 @@
 # ✨Cardiac anatomy generation with Latent Diffusion Models✨
 
+Mesh LDM code is based on the Mesh VAE: https://github.com/marcel-beetz/cardiac-mesh-vae
+
 ## Requirements
 Following the requirements provided by Beetz et al. for Mesh VAE: https://github.com/marcel-beetz/cardiac-mesh-vae
 
