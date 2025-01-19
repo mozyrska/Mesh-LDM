@@ -88,9 +88,12 @@ Code in folder: clinical_metrics
     2. matlab -nosplash -nodesktop -r "run('calculate_volume_mass.m');"
     3. 
 
-## Acknowledgements
-Parts of this code are based on software from other repositories. Please see the ACKNOWLEDGEMENTS file for more details.
-
 ## (Optional) Get latent space distribution
 After VAE training and data encoding:
 * Get mean and std of the latent space distribution: meshLDM/mean_std_training_data.py
+
+## Acknowledgements
+Parts of this code are based on software from other repositories. Please see the [Acknowledgements] (Acknowledgements.txt) file for more details.
+
+## License
+[MIT](LICENSE.txt)
