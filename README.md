@@ -91,7 +91,7 @@ After VAE training and data encoding:
 * Get mean and std of the latent space distribution: meshLDM/mean_std_training_data.py
 
 ## Acknowledgements
-Parts of this code are based on software from other repositories. Please see the [Acknowledgements] (Acknowledgements.txt) file for more details.
+Parts of this code are based on software from other repositories. Please see the Acknowledgements file for more details.
 
 ## License
 [MIT](LICENSE.txt)
