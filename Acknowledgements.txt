@@ -72,3 +72,9 @@ Media projects
 When using the Model in a media project please give credit to Max Planck Institute for
 Intelligent Systems. For example: HumanFlow was used for optical flow estimation courtesy
 of the Max Planck Institute for Intelligent Systems.
+
+---------------------------
+
+The code for the denoising model was based on [1].
+
+[1] B. Wang and J. Vastola, “ML from scratch: Stable Diffusion,” 2022. [Online]. Available: https://doi.org/10.5281/zenodo.14716399
