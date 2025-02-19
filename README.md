@@ -67,7 +67,7 @@ You can train the model on end-diastolic (ED) data or end-systolic (ES) data.
     2. python meshLDM/decode.py --conf encode_decode.cfg
 
 
-7. The generated are located in the "decoded_output_dir" folder (e.g. data/decoded/)
+7. The generated meshes are located in the "decoded_output_dir" folder (e.g. data/decoded/)
 
 
 ## Calculate clinical metrics - LV mass and volume
