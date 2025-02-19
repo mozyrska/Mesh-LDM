@@ -84,7 +84,6 @@ Code in folder: clinical_metrics
     1. Adjust parameter in calculate_volume_mass.m
         * MeshSampleFile - choose reference mesh depending on ED or ES data
     2. matlab -nosplash -nodesktop -r "run('calculate_volume_mass.m');"
-    3. 
 
 ## (Optional) Get latent space distribution
 After VAE training and data encoding:
